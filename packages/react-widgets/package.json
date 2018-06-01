@@ -1,5 +1,5 @@
 {
-  "name": "react-widgets",
+  "name": "@lennd/react-widgets",
   "version": "4.2.7",
   "description": "An à la carte set of polished, extensible, and accessible inputs built for React",
   "main": "lib/index.js",
